@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CloudTrigger
+  - Ground
+  - Horizontal_BLOCK
+  - platformTrigger
+  - Damageable
+  - Border
+  - Switch
+  - Projectile
+  - Destructor
+  - Camera
+  - PlayerProjectile
+  - SoulBlock
+  - JumpingTutorial
+  - BarTutorial
+  - SlashTutorial
+  - CastTutorial
+  - WallTutorial
+  - HealingTutorial
+  - Branch
+  - Tree
+  - BossNonDamageable
+  - Trigger
+  - Enemy
+  - Spawner
+  - Controller
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Wheels
+  - Ground
+  - Boxes
+  - Bottom
+  - Fence
+  - BLOCK
+  - SpecialGround
+  - Border
+  - Projectile
+  - Enemy
+  - Soulprints
+  - SneakyCollider
+  - Destructibles
+  - HealingTree
+  - HealinFruit
+  - SwordHtbox
+  - Swords
+  - PlayerProjectile
+  - SkeletonGround
+  - SoulBlock
+  - BossHead
+  - SoulprintsCollider
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Environment
+    uniqueID: 1962244995
+    locked: 0
+  - name: Decorations
+    uniqueID: 693857703
+    locked: 0
+  - name: Characters
+    uniqueID: 680804531
+    locked: 0
+  - name: TreePlatform
+    uniqueID: 672562757
+    locked: 0
+  - name: Water
+    uniqueID: 3276377801
+    locked: 0
+  - name: Foreground
+    uniqueID: 1837891505
+    locked: 0

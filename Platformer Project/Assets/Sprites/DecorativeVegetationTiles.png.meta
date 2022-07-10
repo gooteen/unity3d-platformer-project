@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 26ce80f653b4fbe4bb52a53790faf7cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5917318663742881170
+    second: DecorativeVegetationTiles_0
+  - first:
+      213: 7460660562940580493
+    second: DecorativeVegetationTiles_1
+  - first:
+      213: -8539772326725140570
+    second: DecorativeVegetationTiles_2
+  - first:
+      213: -1371887547232773040
+    second: DecorativeVegetationTiles_3
+  - first:
+      213: -6716425132886852039
+    second: DecorativeVegetationTiles_4
+  - first:
+      213: 3974373914691641658
+    second: DecorativeVegetationTiles_5
+  - first:
+      213: -4232841669654036363
+    second: DecorativeVegetationTiles_6
+  - first:
+      213: -8630177819639202404
+    second: DecorativeVegetationTiles_7
+  - first:
+      213: 3548100512729586994
+    second: DecorativeVegetationTiles_8
+  - first:
+      213: 597446442679016894
+    second: DecorativeVegetationTiles_9
+  - first:
+      213: 284823827546570360
+    second: DecorativeVegetationTiles_10
+  - first:
+      213: -4163705377604263575
+    second: DecorativeVegetationTiles_11
+  - first:
+      213: 6664006212277864181
+    second: DecorativeVegetationTiles_12
+  - first:
+      213: 4037751852421772827
+    second: DecorativeVegetationTiles_13
+  - first:
+      213: -8942263698601322595
+    second: DecorativeVegetationTiles_14
+  - first:
+      213: 8522886374329843736
+    second: DecorativeVegetationTiles_15
+  - first:
+      213: 4964131797925449735
+    second: DecorativeVegetationTiles_16
+  - first:
+      213: 895108696613516787
+    second: DecorativeVegetationTiles_17
+  - first:
+      213: 4642916668602340728
+    second: DecorativeVegetationTiles_18
+  - first:
+      213: 8742211314761326293
+    second: DecorativeVegetationTiles_19
+  - first:
+      213: -6337692382110821484
+    second: DecorativeVegetationTiles_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DecorativeVegetationTiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dfe2f29f98e1250800000000000000
+      internalID: 5917318663742881170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorativeVegetationTiles_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 64
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82d6d3f047998760800000000000000
+      internalID: 7460660562940580493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorativeVegetationTiles_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af36d28052ac7980800000000000000
+      internalID: -8539772326725140570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorativeVegetationTiles_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 48
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570ccc19dece145c0800000000000000
+      internalID: -4232841669654036363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorativeVegetationTiles_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 48
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd143ccf5e8a4800800000000000000
+      internalID: 597446442679016894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorativeVegetationTiles_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87efa7813c5e3f300800000000000000
+      internalID: 284823827546570360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorativeVegetationTiles_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961a382f40c8736c0800000000000000
+      internalID: -4163705377604263575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorativeVegetationTiles_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d975ff45b82b6e380800000000000000
+      internalID: -8942263698601322595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorativeVegetationTiles_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5f209fd901c6c00800000000000000
+      internalID: 895108696613516787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6f0cbcd04f82fce448ff52b7e26e8499
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
